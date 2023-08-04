@@ -1,4 +1,4 @@
-![Data Visualization Repository](img/datavis.jpg)
+![Data Visualization Repository](img/datavis(2).jpg)
 
 # Repositório dos meus estudos de Data Visualization
 
